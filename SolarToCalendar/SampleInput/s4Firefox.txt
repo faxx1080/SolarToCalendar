@@ -1,0 +1,195 @@
+﻿ITS 101 - Introduction to Stony Brook
+	
+	
+Status 	Units 	Grading 	Grade
+Enrolled
+	
+1.00
+	
+Satisfactory/Unsatisfactory
+	
+ 
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+94070
+	
+20
+	
+Lecture
+	
+Fr 1:00PM - 1:53PM
+	
+ENGINEERING 105 WESTCAMPUS
+	
+Chandrani Roy
+	
+08/26/2013 - 12/18/2013
+	
+JRN 101 - News Literacy
+	
+	
+Status 	Units 	Grading 	Grade 	Requirement Designation
+Enrolled
+	
+3.00
+	
+Undergraduate Graded
+	
+ 
+	
+DEC B. Required grade: A through D (Taken)
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+93672
+	
+04
+	
+Lecture
+	
+Tu 7:00PM - 8:20PM
+	
+FREY HALL 102 WESTCAMPUS
+	
+Howard Schneider,
+Richard Hornik
+	
+08/26/2013 - 12/18/2013
+93639
+	
+R21
+	
+Recitation
+	
+Th 5:30PM - 6:50PM
+	
+MELVILLE LBR E4310 WESTCAMPUS
+	
+Jack Sherman
+	
+08/26/2013 - 12/18/2013
+	
+MAT 211 - Introduction to Linear Algebra
+	
+	
+Status 	Units 	Grading 	Grade
+Enrolled
+	
+3.00
+	
+Undergraduate Graded
+	
+ 
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+82816
+	
+01
+	
+Lecture
+	
+MoWeFr 12:00PM - 12:53PM
+	
+SIMONS CENTR 103 WESTCAMPUS
+	
+Moira Chas
+	
+08/26/2013 - 12/18/2013
+	
+PHI 105 - Politics and Society
+	
+	
+Status 	Units 	Grading 	Grade 	Requirement Designation
+Enrolled
+	
+3.00
+	
+Undergraduate Graded
+	
+ 
+	
+DEC G. Required grade: A through D (Taken)
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+96028
+	
+05
+	
+Lecture
+	
+TuTh 8:30AM - 9:50AM
+	
+FREY HALL 224 WESTCAMPUS
+	
+Soren Whited
+	
+08/26/2013 - 12/18/2013
+	
+PHY 131 - Classical Physics I
+	
+	
+Status 	Units 	Grading 	Grade 	Requirement Designation
+Enrolled
+	
+3.00
+	
+Undergraduate Graded
+	
+ 
+	
+DEC E. Required grade: A through D (Taken)
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+82626
+	
+01
+	
+Lecture
+	
+MoWeFr 8:00AM - 8:53AM
+	
+JAVITS LECTR 100 WESTCAMPUS
+	
+Peter Stephens,
+Thomas Hemmick
+	
+08/26/2013 - 12/18/2013
+82631
+	
+R05
+	
+Recitation
+	
+Tu 10:00AM - 10:53AM
+	
+PHYSICS P130 WESTCAMPUS
+	
+Staff
+	
+08/26/2013 - 12/18/2013
+	
+PHY 133 - Classical Physics Laboratory I
+	
+	
+Status 	Units 	Grading 	Grade
+Enrolled
+	
+1.00
+	
+Undergraduate Graded
+	
+ 
+	
+Class Nbr 	Section 	Component 	Days & Times 	Room 	Instructor 	Start/End Date
+86875
+	
+L08
+	
+Laboratory
+	
+Tu 1:00PM - 2:50PM
+	
+PHYSICS A126 WESTCAMPUS
+	
+Staff
+	
+08/26/2013 - 12/18/2013 

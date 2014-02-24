@@ -1,0 +1,24 @@
+Directions:
+
+0) You must use either **Firefox** or **Chrome** for this to work.
+1) Open your solar home page.
+2) Go to Student Records and Registration.
+3) Go to Enrollment.
+4) Go to My Class Schedule (NOT My Weekly Schedule)
+5) Select from the first character of the first class listed on the page. For example, if it said "ITS 101 - Int...", you would start selecting from that first I to...
+6) ...the last digit in the last table with a class. This is often the date that is right above the link that says "Printer Friendly Page". Select from the first class (see #5) to the last digit of that date.
+7) Copy all that.
+8) Click the button at the bottom of this form.
+
+This will (hopefully) create and ask you to save an ICS file - a digital calendar file. It contains all the information on solar that you copied (Except for the # of credits, I may update later for that). You can import this file to places like Apple's Calendar and Google Calendar, and ta-da you and your smartphone if you have one now have a one-click away map of your entire week! Where you have to be, when you have to be there, and with more accuracy than Solar's "grid view" which rounds to the nearest hour.
+
+I hope you enjoyed this,
+Frank Migliorino.
+
+© Frank Migliorino 2013. All Rights Reserved.
+
+1) Go to Google Calendar, and sign in with either your Google Account or Stony Brook's.
+2) Once loaded, make a new calendar (if you want): Near My Calendars, click that small dropdown arrow, and click create a new calendar. Fill in whatever you want.
+3) Optional: If you want to share your schedule with others, I recommend you use the Stony Brook account - everyone's names will autocomplete. Under "Share this Calendar" in calendar details, add the names of people you want to see your calendar. That's it.
+4) Back at calendar.google.com, under Other Calendars, click the arrow that has a dropdown menu with "Import calendar" - this will pop up a dialog asking for that file this program just made. Choose that file, and choose the calendar you want your schedule to go in.
+5) Enjoy! If you want this calendar on your smartphone, you can find that on google.
